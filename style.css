@@ -1,0 +1,343 @@
+.body{
+  background-color: #19181d;
+}
+
+.pgina-inicio {
+  background-color: #19181d;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pgina-inicio .div {
+  background-color: #19181d;
+  overflow: hidden;
+  width: 1280px;
+  height: 3165px;
+  position: relative;
+}
+
+.pgina-inicio .overlap {
+  position: absolute;
+  width: 1111px;
+  height: 142px;
+  top: 0;
+  left: 45px;
+}
+
+.pgina-inicio .logo {
+  position: absolute;
+  width: 142px;
+  height: 142px;
+  top: 0;
+  left: 524px;
+  background-image: url(./img/b0e1d132-3d2b-41bc-a2e5-dad60b3f387f-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.pgina-inicio .navbar {
+  position: absolute;
+  width: 1111px;
+  height: 30px;
+  top: 56px;
+  left: 0;
+}
+
+.pgina-inicio .text-wrapper {
+  left: 1030px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .text-wrapper-2 {
+  left: 126px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .text-wrapper-3 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .text-wrapper-4 {
+  left: 374px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .text-wrapper-5 {
+  left: 241px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .overlap-group {
+  position: absolute;
+  width: 1287px;
+  height: 2307px;
+  top: 782px;
+  left: -23px;
+}
+
+.pgina-inicio .images {
+  position: absolute;
+  width: 1239px;
+  height: 2168px;
+  top: 139px;
+  left: 0;
+}
+
+.pgina-inicio .amigos-felices-tiro {
+  position: absolute;
+  width: 683px;
+  height: 471px;
+  top: 0;
+  left: 23px;
+  object-fit: cover;
+}
+
+.pgina-inicio .hamburguesa-papas {
+  position: absolute;
+  width: 533px;
+  height: 719px;
+  top: 559px;
+  left: 706px;
+  object-fit: cover;
+}
+
+.pgina-inicio .close-up-bar-tierna {
+  position: absolute;
+  width: 537px;
+  height: 805px;
+  top: 1363px;
+  left: 87px;
+  object-fit: cover;
+}
+
+.pgina-inicio .jovenes-vapeando {
+  position: absolute;
+  width: 299px;
+  height: 199px;
+  top: 1724px;
+  left: 706px;
+  object-fit: cover;
+}
+
+.pgina-inicio .main-text {
+  position: absolute;
+  width: 1140px;
+  height: 2284px;
+  top: 0;
+  left: 147px;
+}
+
+.pgina-inicio .DINNER-PUB-CLUB {
+  position: absolute;
+  top: 234px;
+  left: 664px;
+  font-family: "Rubik One-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .span {
+  color: #ffffff;
+}
+
+.pgina-inicio .text-wrapper-6 {
+  color: #424249;
+}
+
+.pgina-inicio .FROM-BURGUERS-TO {
+  position: absolute;
+  top: 749px;
+  left: 0;
+  font-family: "Rubik One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 74px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .ENJOY-SOME-FUN {
+  position: absolute;
+  width: 533px;
+  top: 1502px;
+  left: 559px;
+  font-family: "Rubik One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .text-wrapper-7 {
+  position: absolute;
+  top: 2088px;
+  left: 559px;
+  font-family: "Rubik One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .lorem-ipsum-dolor {
+  position: absolute;
+  width: 300px;
+  top: 0;
+  left: 327px;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .text-wrapper-8 {
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.pgina-inicio .text-wrapper-9 {
+  font-size: 12px;
+}
+
+.pgina-inicio .p {
+  top: 139px;
+  left: 599px;
+  position: absolute;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .text-wrapper-10 {
+  width: 405px;
+  top: 1384px;
+  left: 0;
+  position: absolute;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .lorem-ipsum-dolor-2 {
+  width: 488px;
+  top: 2179px;
+  left: 559px;
+  position: absolute;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .main-title {
+  position: absolute;
+  width: 777px;
+  height: 476px;
+  top: 225px;
+  left: 241px;
+}
+
+.pgina-inicio .overlap-group-2 {
+  position: relative;
+  width: 773px;
+  height: 476px;
+}
+
+.pgina-inicio .grupo-amigos {
+  position: absolute;
+  width: 164px;
+  height: 122px;
+  top: 238px;
+  left: 356px;
+  object-fit: cover;
+}
+
+.pgina-inicio .grupo-jovenes {
+  position: absolute;
+  width: 164px;
+  height: 110px;
+  top: 0;
+  left: 356px;
+  object-fit: cover;
+}
+
+.pgina-inicio .VISIT-OUR-FOOD-AND {
+  position: absolute;
+  top: 0;
+  left: 25px;
+  font-family: "Rubik One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .text-wrapper-11 {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  font-family: "Rubik One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}

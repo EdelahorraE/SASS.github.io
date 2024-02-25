@@ -1,0 +1,222 @@
+.menu {
+  background-color: #19181d;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.menu .div {
+  background-color: #19181d;
+  width: 1280px;
+  height: 1149px;
+  position: relative;
+}
+
+.menu .overlap {
+  position: absolute;
+  width: 1111px;
+  height: 142px;
+  top: 0;
+  left: 45px;
+}
+
+.menu .logo {
+  position: absolute;
+  width: 142px;
+  height: 142px;
+  top: 0;
+  left: 524px;
+  background-image: url(./img/b0e1d132-3d2b-41bc-a2e5-dad60b3f387f-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.menu .navbar {
+  position: absolute;
+  width: 1111px;
+  height: 30px;
+  top: 56px;
+  left: 0;
+}
+
+.menu .text-wrapper {
+  left: 1030px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .text-wrapper-2 {
+  left: 126px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .overlap-group {
+  position: absolute;
+  width: 50px;
+  height: 30px;
+  top: 0;
+  left: 0;
+}
+
+.menu .text-wrapper-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .line {
+  width: 50px;
+  top: 29px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.menu .text-wrapper-4 {
+  left: 374px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .text-wrapper-5 {
+  left: 241px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .overlap-2 {
+  position: absolute;
+  width: 1057px;
+  height: 860px;
+  top: 233px;
+  left: 95px;
+}
+
+.menu .pizzas {
+  width: 1057px;
+  height: 372px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.menu .overlap-3 {
+  position: absolute;
+  width: 1051px;
+  height: 36px;
+  top: 0;
+  left: 0;
+}
+
+.menu .text-wrapper-6 {
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.menu .img {
+  width: 1051px;
+  top: 35px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.menu .text-wrapper-7 {
+  position: absolute;
+  top: 99px;
+  left: 76px;
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .lorem-ipsum-dolor {
+  position: absolute;
+  width: 521px;
+  top: 153px;
+  left: 76px;
+  font-family: "Playfair Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .hamburguer {
+  position: absolute;
+  width: 1057px;
+  height: 372px;
+  top: 469px;
+  left: 0;
+}
+
+.menu .images {
+  position: absolute;
+  width: 435px;
+  height: 761px;
+  top: 99px;
+  left: 616px;
+}
+
+.menu .guy-guantes-negros {
+  position: absolute;
+  width: 435px;
+  height: 293px;
+  top: 468px;
+  left: 0;
+  object-fit: cover;
+}
+
+.menu .pizza {
+  position: absolute;
+  width: 435px;
+  height: 291px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}

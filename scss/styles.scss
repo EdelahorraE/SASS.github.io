@@ -1,0 +1,223 @@
+
+@import "variables";
+@import "text-styles";
+@import "navbar";
+
+body {
+  background-color: $color-back;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pagina-inicio {
+  overflow: hidden;
+  width: 1280px;
+  height: 3165px;
+  position: relative;
+}
+
+.main-title {
+  position: absolute;
+  width: 777px;
+  height: 476px;
+  top: 225px;
+  left: 241px;
+  .overlap-group-2 {
+    position: relative;
+    width: 773px;
+    height: 476px;
+  }
+    .grupo-amigos {
+      position: absolute;
+      width: 164px;
+      height: 122px;
+      top: 238px;
+      left: 356px;
+      object-fit: cover;
+    }
+      .grupo-jovenes {
+        position: absolute;
+        width: 164px;
+        height: 110px;
+        top: 0;
+        left: 356px;
+        object-fit: cover;
+      }
+        .VISIT-OUR-FOOD-AND {
+          position: absolute;
+          top: 0;
+          left: 25px;
+          @include main-text();
+        }
+          .text-wrapper-11 {
+            position: absolute;
+            top: 110px;
+            left: 0;
+            font-family: "Rubik One-Regular", Helvetica;
+            font-weight: 400;
+            color: #ffffff;
+            font-size: 96px;
+            letter-spacing: 0;
+            line-height: normal;
+}
+}
+
+.overlap-group {
+  position: absolute;
+  width: 1287px;
+  height: 2307px;
+  top: 782px;
+  left: -23px;
+
+  .images{
+    position: absolute;
+    width: 1239px;
+    height: 2168px;
+    top: 139px;
+    left: 0;
+      }
+    .amigos-felices-tiro {
+      position: absolute;
+      width: 683px;
+      height: 471px;
+      top: 0;
+      left: 23px;
+      object-fit: cover;
+      }
+  .hamburguesa-papas {
+    position: absolute;
+    width: 533px;
+    height: 719px;
+    top: 559px;
+    left: 706px;
+    object-fit: cover;
+  }
+    .close-up-bar-tierna {
+      position: absolute;
+      width: 537px;
+      height: 805px;
+      top: 1363px;
+      left: 87px;
+      object-fit: cover;
+  }
+    .jovenes-vapeando {
+      position: absolute;
+      width: 299px;
+      height: 199px;
+      top: 1724px;
+      left: 706px;
+      object-fit: cover;
+  }
+}
+
+.main-text {
+  position: absolute;
+  width: 1140px;
+  height: 2284px;
+  top: 0;
+  left: 147px;
+  .DINNER-PUB-CLUB {
+    position: absolute;
+    top: 234px;
+    left: 664px;
+    font-family: "Rubik One-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .FROM-BURGUERS-TO {
+    position: absolute;
+    top: 749px;
+    left: 0;
+    font-family: "Rubik One-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 74px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .ENJOY-SOME-FUN {
+    position: absolute;
+    width: 533px;
+    top: 1502px;
+    left: 559px;
+    font-family: "Rubik One-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .text-wrapper-7 {
+    position: absolute;
+    top: 2088px;
+    left: 559px;
+    font-family: "Rubik One-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .lorem-ipsum-dolor {
+    position: absolute;
+    width: 300px;
+    top: 0;
+    left: 327px;
+    font-family: "Playfair Display", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .text-wrapper-8 {
+    font-family: "Playfair Display", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  .text-wrapper-9 {
+    font-size: 12px;
+  }
+  .p {
+    top: 139px;
+    left: 599px;
+    position: absolute;
+    font-family: "Playfair Display", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .text-wrapper-10 {
+    width: 405px;
+    top: 1384px;
+    left: 0;
+    position: absolute;
+    font-family: "Playfair Display", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .lorem-ipsum-dolor-2 {
+    width: 488px;
+    top: 2179px;
+    left: 559px;
+    position: absolute;
+    font-family: "Playfair Display", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+}

@@ -1,0 +1,103 @@
+.pgina-inicio .div {
+  background-color: #19181d;
+  overflow: hidden;
+  width: 1280px;
+  height: 3165px;
+  position: relative;
+}
+
+.pgina-inicio .overlap {
+  position: absolute;
+  width: 1111px;
+  height: 142px;
+  top: 0;
+  left: 45px;
+}
+
+.pgina-inicio .logo {
+  position: absolute;
+  width: 142px;
+  height: 142px;
+  top: 0;
+  left: 524px;
+  background-image: url(./img/b0e1d132-3d2b-41bc-a2e5-dad60b3f387f-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio .span {
+  color: #ffffff;
+}
+
+.pgina-inicio .text-wrapper-6 {
+  color: #424249;
+}
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio 
+
+.pgina-inicio .grupo-amigos {
+  position: absolute;
+  width: 164px;
+  height: 122px;
+  top: 238px;
+  left: 356px;
+  object-fit: cover;
+}
+
+.pgina-inicio .grupo-jovenes {
+  position: absolute;
+  width: 164px;
+  height: 110px;
+  top: 0;
+  left: 356px;
+  object-fit: cover;
+}
+
+.pgina-inicio .VISIT-OUR-FOOD-AND {
+  position: absolute;
+  top: 0;
+  left: 25px;
+  font-family: "Rubik One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-inicio .text-wrapper-11 {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  font-family: "Rubik One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}

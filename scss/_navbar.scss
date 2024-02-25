@@ -1,0 +1,51 @@
+@import "variables";
+@import "text-styles";
+
+.nav {
+    position: absolute;
+    width: 1111px;
+    height: 142px;
+    top: 0;
+    left: 45px;
+  
+    .logo {
+      position: absolute;
+      width: 142px;
+      height: 142px;
+      top: 0;
+      left: 524px;
+      background-image: url(../img/b0e1d132-3d2b-41bc-a2e5-dad60b3f387f-1.png);
+      background-size: cover;
+      background-position: 50% 50%;
+    }
+    .navbar {
+      position: absolute;
+      width: 1111px;
+      height: 30px;
+      top: 56px;
+      left: 0;
+      @include text-styles();
+  
+      .text-wrapper{
+        left: 1030px;
+        @include text-wrapper();
+        }
+      .text-wrapper-2{
+        left: 126px;
+        @include text-wrapper();
+        }
+      .text-wrapper-3{
+        left: 0px;
+        @include text-wrapper();
+        }
+      .text-wrapper-4{
+        left: 374px;
+        position: absolute;
+        top: 0;
+        }
+      .text-wrapper-5{
+        left: 241px;
+        @include text-wrapper();
+        }
+    }
+  }

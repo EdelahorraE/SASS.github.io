@@ -1,0 +1,37 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Kanit:400|Playfair+Display:400");
+@import url("https://anima-uploads.s3.amazonaws.com/5ddc933c9032e139b9ccc30d/RubikOne-Regular.ttf");
+@import "variables";
+
+//Fuentes y estilos de texto
+@mixin text-styles {
+  font-family: "Kanit", Helvetica;
+  font-weight: 400;
+  color: $text-color;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+@mixin text-wrapper {
+  position: absolute;
+  top: 0;
+}
+
+@mixin main-text {
+  font-family: "Rubik One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+@mixin main-text-1 {
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
